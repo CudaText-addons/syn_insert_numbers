@@ -1,0 +1,10 @@
+[info]
+title=Insert Numbers
+desc=Gives dialog to insert numbers into text: from start-number, with prefix+suffix strings. Has 2 modes: if text selected or not.
+type=py-plugin
+subdir=syn_insert_numbers
+
+[ini]
+section=Commands
+id=Insert Numbers
+params=run
